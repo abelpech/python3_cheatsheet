@@ -1,3 +1,7 @@
+
 ## Python3 Cheatsheet
 
-Courtesy of https://perso.limsi.fr/pointal/python:memento
+## 1) https://github.com/gto76/python-cheatsheet
+
+## 2) https://perso.limsi.fr/pointal/python:memento
+
